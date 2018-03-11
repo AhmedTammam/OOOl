@@ -35,6 +35,7 @@ h5 {
   color: white;
   height: 30px;
   margin-top: 0px;
+  width: 100% !important;
 }
 
 .search::-webkit-input-placeholder { /* Chrome/Opera/Safari */
